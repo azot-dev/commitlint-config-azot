@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config-azot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shareable commitlint config enforcing conventional commits",
   "files": [
     "index.js"
